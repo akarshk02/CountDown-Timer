@@ -3,7 +3,7 @@ var hoursE1 = document.getElementById("hours");
 var minutesE1 = document.getElementById("minutes");
 var secondsE1 = document.getElementById("seconds");
 
-var newYear="14 June 2023";
+var newYear="14 June 2024";
 
 function countdown(){
     var newYearDate = new Date(newYear);
